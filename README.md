@@ -1,6 +1,6 @@
 # Data Analysis Practice
 ### 1. Classic Model SQL Practice (70+)
-* sql file
+* sql/hw_01_Classicmodels.sql
 ### 2. LinkedIn Interview SQL Questions
 * LinkedIn_Interview_SQL.pdf
 ### 3. Python Sorting Value Practice
@@ -15,6 +15,7 @@
 * 
 
 
+
 # Presentation
 ### 1. DynamoDB
 * 
@@ -27,3 +28,4 @@
 ### 1. Kaggle Competition
 * 
 ### 2. Final Project
+* 
