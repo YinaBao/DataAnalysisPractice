@@ -27,7 +27,6 @@
 # Project
 ### 1. Kaggle Competition
 * competitive-data-science-predict-future-sales/Predict_future_sales.ipynb
-
-####            https://www.kaggle.com/c/competitive-data-science-predict-future-sales/data
+* Link: https://www.kaggle.com/c/competitive-data-science-predict-future-sales/data
 ### 2. Final Project
 * 
