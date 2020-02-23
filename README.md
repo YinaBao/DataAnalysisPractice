@@ -7,11 +7,23 @@
 * Sorting_Assignment.ipynb
 ### 4. Modify Duplicate Date Practice
 * Modify_Date.ipynb
-### 5. 
+### 5. AWS Service Python/ Command Line Access 
+* AWSservise_Python_Command_Access.pdf
+### 6. Walmart Interview Question
 * 
-###
-###
-###
-###
-###
+### 7. A/B Test Practice
+* 
 
+
+# Presentation
+### 1. DynamoDB
+* 
+### 2. Decision Tree
+* 
+
+
+
+# Project
+### 1. Kaggle Competition
+* 
+### 2. Final Project
