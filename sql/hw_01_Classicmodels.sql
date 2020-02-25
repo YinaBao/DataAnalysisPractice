@@ -260,10 +260,9 @@ left  join orders o on o.orderNumber = od.orderNumber
 where year(o.orderDate) = 2004
 group by customerNumber;
 
-DROP VIEW IF EXISTS q8paid;
-CREATE VIEW q8paid AS
+CREATE OR REPLACE VIEW q8paid AS
 select customerNumber, sum(amount) as paidvalue from payments p
-where year(o.paymentDate) = 2004
+where year(p.paymentDate) = 2004
 group by customerNumber;
 
 
