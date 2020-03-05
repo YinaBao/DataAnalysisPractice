@@ -11,8 +11,7 @@
 * AWSservise_Python_Command_Access.pdf
 ### 6. Walmart Interview Question
 * InternationalDataAnalysis.ipynb
-### 7. A/B Test Practice
-* 
+
 
 
 
